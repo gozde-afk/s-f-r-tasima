@@ -1,0 +1,23 @@
+
+
+denemem13 = ['863', '59', '27', '79', '121' ,'0' ,'48' ,'8']
+
+
+
+print("sonucun : " + str(denemem13))
+
+
+
+denemem13.sort(key='0'.__eq__)
+
+
+print("sonuc13: " + str(denemem13))
+
+
+
+C:\Users\Casper\PycharmProjects\pythonProject1\venv\Scripts\python.exe C:/Users/Casper/PycharmProjects/pythonProject1/venv/Include/sıfır.py
+sonucun : ['863', '59', '27', '79', '121', '0', '48', '8']
+sonuc13: ['863', '59', '27', '79', '121', '48', '8', '0']
+
+Process finished with exit code 0
+
